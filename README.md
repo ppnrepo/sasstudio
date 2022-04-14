@@ -17,4 +17,6 @@ Integração SAS Studio e Github
 
 2. Como criar arquivos SSH: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 
-3. Github da SAS: https://github.com/sassoftware
+3. Adicionando SSH Key to Github: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
+
+4. Github da SAS: https://github.com/sassoftware
