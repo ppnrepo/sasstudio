@@ -1,0 +1,13 @@
+gender,race/ethnicity, parental level of education, lunch, test preparation course, math score, reading score, writing score
+F, group B, bacharel, padrão, 0, 72.0, 72.0,74.0
+F, group C, ensino médio, padrão, 1, 69.0, 90.0, 86.0
+F, group B, mestre, padrão, 0, 90.0, 95.0, NaN
+F, group A, aluno especial, meio período, 0, 47.0, 57.0, 44.0
+F, group C, ensino médio, padrão, 0, 76.0, 78.0, 75.0
+F, group B, bacharel, padrão, 0, 71.0, 83.0, 78.0
+F, group B, ensino médio, meio período, 0, 88.0, 95.0,92.0
+F, group B, ensino médio, padrão, 0, 40.0, 43.0, 39.0
+F, group D, bacharel, meio período, 0, 64.0, 64.0,67.0
+F, group B, bacharel, padrão, 0, 48.0, 45.0,46.0
+F, group A, bacharel, padrão, 0, 23.0, 37.0, 29.0
+F, group B, bacharel, padrão, 0, 50.0, 55.0, 61.0
